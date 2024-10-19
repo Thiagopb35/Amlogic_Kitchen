@@ -15,7 +15,7 @@
 
 <b>Clone the repository:</b>
 
-     git clone --recurse-submodules https://github.com/althafvly/AmlogicKitchen -b master AmlogicKitchen
+     git submodule update --init --recursive
 
 <b>Supported features (Rockchip):</b>
 
